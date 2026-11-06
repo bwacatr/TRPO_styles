@@ -1,0 +1,45 @@
+﻿<Page x:Class="TRPO_styles.GradePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TRPO_styles"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="GradePage">
+
+    <Grid>
+        <DockPanel>
+            <DockPanel DockPanel.Dock="Top" Background="LightBlue">
+                <TextBlock FontSize="24" Padding="10" DockPanel.Dock="Left" >Изменение темы</TextBlock>
+                <Button x:Name="BackBtn" HorizontalAlignment="Right"  Content="Назад" DockPanel.Dock="Right" />
+                <Button x:Name="ChangeThemeBtn" HorizontalAlignment="Right"  Content="Сменить тему приложения" DockPanel.Dock="Right" />
+
+            </DockPanel>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <TextBox Text="Название темы"/>
+                <TextBox Text="4" Grid.Row="1" />
+
+                <StackPanel Grid.Row="3" VerticalAlignment ="Bottom" >
+                    <Button x:Name="ContinueBtn" Content="Продолжить" />
+                </StackPanel>
+
+
+
+
+                <TextBox Style="{StaticResource Large}" Grid.Column="1" TextWrapping="Wrap" AcceptsReturn="True" Grid.RowSpan="4" Grid.Row="0"  Text="Пояснение к оценке"/>
+
+            </Grid>
+        </DockPanel>
+    </Grid>
+</Page>

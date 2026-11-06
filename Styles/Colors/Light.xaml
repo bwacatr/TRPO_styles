@@ -1,0 +1,26 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <SolidColorBrush x:Key="Background" Color="White"/>
+
+    <SolidColorBrush x:Key="TextBlockBackground" Color="LightBlue"/>
+    <SolidColorBrush x:Key="TextBlockForeground" Color="Black"/>
+
+    <SolidColorBrush x:Key="ButtonBackground" Color="White"/>
+    <SolidColorBrush x:Key="ButtonHover" Color="LightBlue"/>
+    <SolidColorBrush x:Key="ButtonPressed" Color="#004578"/>
+    <SolidColorBrush x:Key="ButtonForeground" Color="Black"/>
+    <SolidColorBrush x:Key="ButtonBorder" Color="#005A9E"/>
+
+    <SolidColorBrush x:Key="MainButtonBackground" Color="#0078D4"/>
+    <SolidColorBrush x:Key="MainButtonHover" Color="#005A9E"/>
+    <SolidColorBrush x:Key="MainButtonPressed" Color="#004578"/>
+    <SolidColorBrush x:Key="MainButtonForeground" Color="Black"/>
+    <SolidColorBrush x:Key="MainButtonBorder" Color="#005A9E"/>
+
+    <SolidColorBrush x:Key="DangerButtonBackground" Color="Orange"/>
+    <SolidColorBrush x:Key="DangerButtonHover" Color="IndianRed"/>
+    <SolidColorBrush x:Key="DangerButtonPressed" Color="OrangeRed"/>
+    <SolidColorBrush x:Key="DangerButtonForeground" Color="Black"/>
+    <SolidColorBrush x:Key="DangerButtonBorder" Color="Red"/>
+</ResourceDictionary>

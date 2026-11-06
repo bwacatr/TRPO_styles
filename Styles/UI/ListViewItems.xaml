@@ -1,0 +1,50 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+
+    <DataTemplate x:Key="ListViewItemTemplateStudents">
+        <StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <RadioButton Content="{Binding Name}" Margin="5,5,5,5"/>
+            </StackPanel>
+        </StackPanel>
+    </DataTemplate>
+
+    <DataTemplate x:Key="ListViewItemTemplateSubjects">
+        <StackPanel>
+            <DockPanel>
+                <Label Content="{Binding Name}" DockPanel.Dock="Left"/>
+            </DockPanel>
+        </StackPanel>
+    </DataTemplate>
+
+    <DataTemplate x:Key="ListViewItemTemplateThemes">
+        <StackPanel>
+            <DockPanel>
+                <Label Content="{Binding Name}" DockPanel.Dock="Left"/>
+                <Label Content="{Binding Grade}" DockPanel.Dock="Left"/>
+                <CheckBox DockPanel.Dock="Right" VerticalAlignment="Center"/>
+            </DockPanel>
+        </StackPanel>
+    </DataTemplate>
+
+
+
+    <Style TargetType="ListView">
+        <Setter Property="Margin" Value="5,5,5,5"/>
+        <Setter Property="BorderBrush" Value="{StaticResource ButtonBorder}"/>
+    </Style>
+
+    <Style TargetType="ListViewItem" x:Key="Students">
+        <Setter Property="ContentTemplate" Value="{StaticResource ListViewItemTemplateStudents}"/>
+    </Style>
+
+    <Style TargetType="ListViewItem" x:Key="Subjects">
+        <Setter Property="ContentTemplate" Value="{StaticResource ListViewItemTemplateSubjects}"/>
+    </Style>
+
+    <Style TargetType="ListViewItem" x:Key="Themes">
+        <Setter Property="ContentTemplate" Value="{StaticResource ListViewItemTemplateThemes}"/>
+    </Style>
+
+</ResourceDictionary>

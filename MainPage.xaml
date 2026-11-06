@@ -1,0 +1,45 @@
+﻿<Page x:Class="TRPO_styles.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TRPO_styles"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="MainPage"
+      Background="{StaticResource Background}">
+
+    <Grid>
+        <DockPanel>
+            <DockPanel DockPanel.Dock="Top" Style="{StaticResource TitlePanel}">
+                <TextBlock DockPanel.Dock="Left" Style="{StaticResource Title}" >Дневник</TextBlock>
+                <Button x:Name="ChangeThemeBtn" HorizontalAlignment="Right" Width="Auto" Content="Сменить тему" DockPanel.Dock="Right" Margin="5,5,5,5"/>
+            </DockPanel>
+            
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <ComboBox x:Name="GroupComboBox" SelectedIndex="0" Grid.Row="0" Margin="5,5,5,5">
+                    <ComboBoxItem Tag="PR-11" Content="PR-11" Name="PR11"/>
+                    <ComboBoxItem Tag="PR-12" Content="PR-12" Name="PR12"/>
+                    <ComboBoxItem Tag="PR-13"  Content="PR-13" Name="PR13"/>
+                </ComboBox>
+
+                <ListView ItemContainerStyle="{StaticResource Students}" Grid.Row="1" Margin="5,5,5,5" x:Name="StudentListView" ItemsSource="{Binding Students}">
+                    
+                    
+                </ListView>
+                <ListView ItemContainerStyle="{StaticResource Subjects}" Grid.Column="1" Margin="5,5,5,5" x:Name="SubjectListView" ItemsSource="{Binding Subjects}" SelectedItem="{Binding SelectedItem}" MouseDoubleClick="SubjectListView_MouseDoubleClick" Grid.RowSpan="2">
+                    
+                </ListView>
+            </Grid>
+        </DockPanel>
+    </Grid>
+</Page>
