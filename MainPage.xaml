@@ -6,14 +6,13 @@
       xmlns:local="clr-namespace:TRPO_styles"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="MainPage"
-      Background="{StaticResource Background}">
+      Title="MainPage">
 
     <Grid>
         <DockPanel>
             <DockPanel DockPanel.Dock="Top" Style="{StaticResource TitlePanel}">
                 <TextBlock DockPanel.Dock="Left" Style="{StaticResource Title}" >Дневник</TextBlock>
-                <Button x:Name="ChangeThemeBtn" HorizontalAlignment="Right" Width="Auto" Content="Сменить тему" DockPanel.Dock="Right" Margin="5,5,5,5"/>
+                <Button x:Name="ChangeThemeBtn" HorizontalAlignment="Right" Width="Auto" Content="Сменить тему" DockPanel.Dock="Right" Margin="5,5,5,5" Click="ChangeThemeBtn_Click"/>
             </DockPanel>
             
             <Grid>

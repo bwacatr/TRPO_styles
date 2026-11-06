@@ -24,5 +24,20 @@ namespace TRPO_styles
         {
             InitializeComponent();
         }
+
+        private void BackBtn_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new SubjectPage());
+        }
+
+        private void ContinueBtn_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new SubjectPage());
+        }
+
+        private void ChangeThemeBtn_Click(object sender, RoutedEventArgs e)
+        {
+            UIThemeHelper.Toggle();
+        }
     }
 }

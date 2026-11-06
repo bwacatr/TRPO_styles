@@ -38,5 +38,15 @@ namespace TRPO_styles
         {
             NavigationService.Navigate(new GradePage());
         }
+
+        private void BackBtn_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new MainPage());
+        }
+
+        private void ChangeThemeBtn_Click(object sender, RoutedEventArgs e)
+        {
+            UIThemeHelper.Toggle();
+        }
     }
 }

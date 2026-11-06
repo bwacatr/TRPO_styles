@@ -4,29 +4,39 @@
     <Style TargetType="TextBlock" x:Key="Title">
         <Setter Property="FontSize" Value="24"/>
         <Setter Property="FontWeight" Value="Bold"/>
-        <Setter Property="Background" Value="{StaticResource TextBlockBackground}"/>
-        <Setter Property="Foreground" Value="{StaticResource TextBlockForeground}"/>
+        <Setter Property="Background" Value="{DynamicResource TextBlockBackground}"/>
+        <Setter Property="Foreground" Value="{DynamicResource TextBlockForeground}"/>
         <Setter Property="Padding" Value="10"/>
     </Style>
 
     <Style TargetType="TextBox">
         <Setter Property="FontSize" Value="14"/>
-        <Setter Property="Width" Value="200"/>
         <Setter Property="Height" Value="50"/>
-        <Setter Property="BorderBrush" Value="{StaticResource ButtonBorder}"/>
+        <Setter Property="BorderBrush" Value="{DynamicResource DangerButtonHover}"/>
+        <Setter Property="Background" Value="{DynamicResource ButtonBackground}"/>
+        <Setter Property="Foreground" Value="{DynamicResource ButtonForeground}"/>
     </Style>
 
-    <Style TargetType="TextBox" x:Key="Large">
-        <Setter Property="HorizontalAlignment" Value="Right"/>
+     <Style TargetType="TextBox" BasedOn="{StaticResource {x:Type TextBox}}"  x:Key="Large">
+         <Setter Property="Height" Value="300"/>
+        <Setter Property="TextWrapping" Value="Wrap"/>
+        <Setter Property="AcceptsReturn" Value="True"/>
+        <Setter Property="AcceptsTab" Value="True"/>
+    </Style>
+
+    <Style TargetType="Label">
+        <Setter Property="Foreground" Value="{DynamicResource ButtonForeground}"/>
         <Setter Property="FontSize" Value="14"/>
-        <Setter Property="Width" Value="500"/>
-        <Setter Property="Height" Value="400"/>
-        <Setter Property="BorderBrush" Value="{StaticResource ButtonBorder}"/>
+    </Style>
+
+    <Style TargetType="CheckBox">
+        <Setter Property="Foreground" Value="{DynamicResource ButtonForeground}"/>
+        <Setter Property="FontSize" Value="14"/>
     </Style>
 
     <Style TargetType="DockPanel" x:Key="TitlePanel">
 
-        <Setter Property="Background" Value="{StaticResource TextBlockBackground}"/>
+        <Setter Property="Background" Value="{DynamicResource TextBlockBackground}"/>
 
     </Style>
 

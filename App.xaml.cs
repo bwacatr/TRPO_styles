@@ -9,6 +9,11 @@ namespace TRPO_styles
     /// </summary>
     public partial class App : Application
     {
+        protected override void OnStartup(StartupEventArgs e)
+        {
+            base.OnStartup(e);
+            UIThemeHelper.ApplySaved();
+        }
     }
 
 }

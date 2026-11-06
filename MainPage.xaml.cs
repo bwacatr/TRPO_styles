@@ -40,5 +40,10 @@ namespace TRPO_styles
         {
             NavigationService.Navigate(new SubjectPage());
         }
+
+        private void ChangeThemeBtn_Click(object sender, RoutedEventArgs e)
+        {
+            UIThemeHelper.Toggle();
+        }
     }
 }

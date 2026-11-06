@@ -10,10 +10,10 @@
 
     <Grid>
         <DockPanel LastChildFill="True">
-            <DockPanel Style="{StaticResource TitlePanel}" DockPanel.Dock="Top" Background="LightBlue">
+            <DockPanel Style="{StaticResource TitlePanel}" DockPanel.Dock="Top">
                 <TextBlock DockPanel.Dock="Left" Style="{StaticResource Title}" >Предмет</TextBlock>
-                <Button x:Name="BackBtn" HorizontalAlignment="Right"  Content="Назад" DockPanel.Dock="Right"/>
-                <Button x:Name="ChangeThemeBtn" HorizontalAlignment="Right"  Content="Сменить тему" DockPanel.Dock="Right"/>
+                <Button x:Name="BackBtn" HorizontalAlignment="Right"  Content="Назад" DockPanel.Dock="Right" Click="BackBtn_Click"/>
+                <Button x:Name="ChangeThemeBtn" HorizontalAlignment="Right"  Content="Сменить тему" DockPanel.Dock="Right" Click="ChangeThemeBtn_Click"/>
                 
             </DockPanel>
             <Grid>

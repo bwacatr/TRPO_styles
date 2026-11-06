@@ -28,11 +28,13 @@
         </StackPanel>
     </DataTemplate>
 
-
+    
 
     <Style TargetType="ListView">
         <Setter Property="Margin" Value="5,5,5,5"/>
-        <Setter Property="BorderBrush" Value="{StaticResource ButtonBorder}"/>
+        <Setter Property="BorderBrush" Value="{DynamicResource ButtonBorder}"/>
+        <Setter Property="Background" Value="{DynamicResource Background}"/>
+        <Setter Property="Foreground" Value="{DynamicResource ButtonForeground}"/>
     </Style>
 
     <Style TargetType="ListViewItem" x:Key="Students">

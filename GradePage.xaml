@@ -10,34 +10,34 @@
 
     <Grid>
         <DockPanel>
-            <DockPanel DockPanel.Dock="Top" Background="LightBlue">
-                <TextBlock FontSize="24" Padding="10" DockPanel.Dock="Left" >Изменение темы</TextBlock>
-                <Button x:Name="BackBtn" HorizontalAlignment="Right"  Content="Назад" DockPanel.Dock="Right" />
-                <Button x:Name="ChangeThemeBtn" HorizontalAlignment="Right"  Content="Сменить тему приложения" DockPanel.Dock="Right" />
+            <DockPanel DockPanel.Dock="Top" Style="{StaticResource TitlePanel}">
+                <TextBlock DockPanel.Dock="Left" Style="{StaticResource Title}" >Изменение темы</TextBlock>
+                <Button x:Name="BackBtn" HorizontalAlignment="Right"  Content="Назад" DockPanel.Dock="Right" Click="BackBtn_Click" />
+                <Button x:Name="ChangeThemeBtn" HorizontalAlignment="Right"  Content="Сменить тему" DockPanel.Dock="Right" Click="ChangeThemeBtn_Click" />
 
             </DockPanel>
             <Grid>
                 <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="200"/>
+                    <ColumnDefinition Width="*"/>
                     <ColumnDefinition Width="*"/>
                 </Grid.ColumnDefinitions>
                 <Grid.RowDefinitions>
-                    <RowDefinition Height="Auto"/>
-                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
                     <RowDefinition Height="*"/>
                 </Grid.RowDefinitions>
 
                 <TextBox Text="Название темы"/>
                 <TextBox Text="4" Grid.Row="1" />
 
-                <StackPanel Grid.Row="3" VerticalAlignment ="Bottom" >
-                    <Button x:Name="ContinueBtn" Content="Продолжить" />
+                <StackPanel Grid.Row="3" VerticalAlignment ="Bottom" Orientation="Horizontal" >
+                    <Button Style="{StaticResource DangerButton}" x:Name="ContinueBtn" Content="Продолжить" HorizontalAlignment="Left" Click="ContinueBtn_Click"/>
                 </StackPanel>
 
 
 
 
-                <TextBox Style="{StaticResource Large}" Grid.Column="1" TextWrapping="Wrap" AcceptsReturn="True" Grid.RowSpan="4" Grid.Row="0"  Text="Пояснение к оценке"/>
+                <TextBox Style="{StaticResource Large}" Grid.RowSpan="3" HorizontalAlignment="Stretch" VerticalAlignment="Top" Grid.Column="1" Text="Пояснение к оценке" />
 
             </Grid>
         </DockPanel>

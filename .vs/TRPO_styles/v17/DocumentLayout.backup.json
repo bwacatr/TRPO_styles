@@ -1,81 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\st310-08\\desktop\\romanov_pr31\\trpo_styles\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\styles\\ui\\miscellaneous.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:styles\\ui\\miscellaneous.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\st310-08\\desktop\\romanov_pr31\\trpo_styles\\gradepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:gradepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\st310-08\\desktop\\romanov_pr31\\trpo_styles\\styles\\ui\\text.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:styles\\ui\\text.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\st310-08\\desktop\\romanov_pr31\\trpo_styles\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\st310-08\\desktop\\romanov_pr31\\trpo_styles\\gradepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:gradepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\st310-08\\desktop\\romanov_pr31\\trpo_styles\\styles\\ui\\listviewitems.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:styles\\ui\\listviewitems.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\st310-08\\desktop\\romanov_pr31\\trpo_styles\\styles\\ui\\boxes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:styles\\ui\\boxes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\st310-08\\desktop\\romanov_pr31\\trpo_styles\\subjectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:subjectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\st310-08\\desktop\\romanov_pr31\\trpo_styles\\subjectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:subjectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\st310-08\\desktop\\romanov_pr31\\trpo_styles\\styles\\colors\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:styles\\colors\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\st310-08\\desktop\\romanov_pr31\\trpo_styles\\styles\\colors\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:styles\\colors\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\st310-08\\desktop\\romanov_pr31\\trpo_styles\\styles\\ui\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\styles\\ui\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:styles\\ui\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\st310-08\\desktop\\romanov_pr31\\trpo_styles\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\st310-08\\desktop\\romanov_pr31\\trpo_styles\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\st310-08\\desktop\\romanov_pr31\\trpo_styles\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\st310-08\\desktop\\romanov_pr31\\trpo_styles\\themes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\styles\\ui\\text.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:styles\\ui\\text.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\styles\\ui\\listviewitems.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:styles\\ui\\listviewitems.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\subjectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:subjectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\themes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:themes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\st310-08\\AppData\\Local\\Temp\\.vsdbgsrc\\bd4204e8fe8c433014b6e844f5f8e83f7021965c67d30b4ae706f784e433988a\\ItemCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\uithemehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:uithemehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\st310-08\\desktop\\romanov_pr31\\trpo_styles\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\subjectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:subjectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\trpo_styles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:trpo_styles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\gradepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:gradepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\styles\\colors\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:styles\\colors\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\styles\\colors\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:styles\\colors\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\gradepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:gradepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\st310-08\\desktop\\romanov_pr31\\trpo_styles\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\trpo_styles.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:trpo_styles.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\trpo_styles\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C578D8E-C787-4F76-BD6D-B71655252509}|TRPO_styles.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\st310-08\\AppData\\Local\\Temp\\.vsdbgsrc\\bd4204e8fe8c433014b6e844f5f8e83f7021965c67d30b4ae706f784e433988a\\ItemCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -85,27 +109,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TRPO_styles",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\TRPO_styles.csproj",
+              "RelativeDocumentMoniker": "TRPO_styles.csproj",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\TRPO_styles.csproj",
+              "RelativeToolTip": "TRPO_styles.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-06T15:43:40.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2026-11-06T15:48:34.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TRPO_styles",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\TRPO_styles.csproj",
+              "RelativeDocumentMoniker": "TRPO_styles.csproj",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\TRPO_styles.csproj",
+              "RelativeToolTip": "TRPO_styles.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-06T15:48:21.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UIThemeHelper.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\UIThemeHelper.cs",
+              "RelativeDocumentMoniker": "UIThemeHelper.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\UIThemeHelper.cs",
+              "RelativeToolTip": "UIThemeHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T15:44:06.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T15:32:50.001Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Boxes.xaml",
-              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\Styles\\UI\\Boxes.xaml",
-              "RelativeDocumentMoniker": "Styles\\UI\\Boxes.xaml",
-              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\Styles\\UI\\Boxes.xaml",
-              "RelativeToolTip": "Styles\\UI\\Boxes.xaml",
+              "Title": "SubjectPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\SubjectPage.xaml",
+              "RelativeDocumentMoniker": "SubjectPage.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\SubjectPage.xaml",
+              "RelativeToolTip": "SubjectPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-06T10:38:49.382Z",
+              "WhenOpened": "2026-11-06T07:11:56.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ListViewItems.xaml",
-              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\Styles\\UI\\ListViewItems.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\Styles\\UI\\ListViewItems.xaml",
               "RelativeDocumentMoniker": "Styles\\UI\\ListViewItems.xaml",
-              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\Styles\\UI\\ListViewItems.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\Styles\\UI\\ListViewItems.xaml",
               "RelativeToolTip": "Styles\\UI\\ListViewItems.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-11-06T10:07:26.558Z",
@@ -113,47 +199,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Text.xaml",
-              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\Styles\\UI\\Text.xaml",
-              "RelativeDocumentMoniker": "Styles\\UI\\Text.xaml",
-              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\Styles\\UI\\Text.xaml",
-              "RelativeToolTip": "Styles\\UI\\Text.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-06T09:57:34.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Dark.xaml",
-              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\Styles\\Colors\\Dark.xaml",
-              "RelativeDocumentMoniker": "Styles\\Colors\\Dark.xaml",
-              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\Styles\\Colors\\Dark.xaml",
-              "RelativeToolTip": "Styles\\Colors\\Dark.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-06T09:45:05.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Light.xaml",
-              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\Styles\\Colors\\Light.xaml",
-              "RelativeDocumentMoniker": "Styles\\Colors\\Light.xaml",
-              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\Styles\\Colors\\Light.xaml",
-              "RelativeToolTip": "Styles\\Colors\\Light.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-06T09:43:11.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "Button.xaml",
-              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\Styles\\UI\\Button.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\Styles\\UI\\Button.xaml",
               "RelativeDocumentMoniker": "Styles\\UI\\Button.xaml",
-              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\Styles\\UI\\Button.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\Styles\\UI\\Button.xaml",
               "RelativeToolTip": "Styles\\UI\\Button.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-11-06T09:07:04.034Z",
@@ -161,52 +211,122 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-06T07:10:07.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GradePage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\GradePage.xaml",
+              "RelativeDocumentMoniker": "GradePage.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\GradePage.xaml",
+              "RelativeToolTip": "GradePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-06T07:12:18.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dark.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\Styles\\Colors\\Dark.xaml",
+              "RelativeDocumentMoniker": "Styles\\Colors\\Dark.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\Styles\\Colors\\Dark.xaml",
+              "RelativeToolTip": "Styles\\Colors\\Dark.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-06T09:45:05.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "GradePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\GradePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\GradePage.xaml.cs",
               "RelativeDocumentMoniker": "GradePage.xaml.cs",
-              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\GradePage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\GradePage.xaml.cs",
               "RelativeToolTip": "GradePage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-06T08:49:47.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Themes.cs",
-              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\Themes.cs",
-              "RelativeDocumentMoniker": "Themes.cs",
-              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\Themes.cs",
-              "RelativeToolTip": "Themes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowC0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-06T08:16:00.237Z",
+              "WhenOpened": "2026-11-06T07:12:21.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SubjectPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\SubjectPage.xaml.cs",
-              "RelativeDocumentMoniker": "SubjectPage.xaml.cs",
-              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\SubjectPage.xaml.cs",
-              "RelativeToolTip": "SubjectPage.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-06T08:10:50.322Z",
+              "DocumentIndex": 4,
+              "Title": "Text.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\Styles\\UI\\Text.xaml",
+              "RelativeDocumentMoniker": "Styles\\UI\\Text.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\Styles\\UI\\Text.xaml",
+              "RelativeToolTip": "Styles\\UI\\Text.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-06T09:57:34.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
+              "Title": "Miscellaneous.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\Styles\\UI\\Miscellaneous.xaml",
+              "RelativeDocumentMoniker": "Styles\\UI\\Miscellaneous.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\Styles\\UI\\Miscellaneous.xaml",
+              "RelativeToolTip": "Styles\\UI\\Miscellaneous.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-06T10:38:49.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Light.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\Styles\\Colors\\Light.xaml",
+              "RelativeDocumentMoniker": "Styles\\Colors\\Light.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\Styles\\Colors\\Light.xaml",
+              "RelativeToolTip": "Styles\\Colors\\Light.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-06T09:43:11.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-06T07:14:42.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "ItemCollection.cs",
               "DocumentMoniker": "C:\\Users\\st310-08\\AppData\\Local\\Temp\\.vsdbgsrc\\bd4204e8fe8c433014b6e844f5f8e83f7021965c67d30b4ae706f784e433988a\\ItemCollection.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\bd4204e8fe8c433014b6e844f5f8e83f7021965c67d30b4ae706f784e433988a\\ItemCollection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\st310-08\\AppData\\Local\\Temp\\.vsdbgsrc\\bd4204e8fe8c433014b6e844f5f8e83f7021965c67d30b4ae706f784e433988a\\ItemCollection.cs",
               "ToolTip": "C:\\Users\\st310-08\\AppData\\Local\\Temp\\.vsdbgsrc\\bd4204e8fe8c433014b6e844f5f8e83f7021965c67d30b4ae706f784e433988a\\ItemCollection.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\bd4204e8fe8c433014b6e844f5f8e83f7021965c67d30b4ae706f784e433988a\\ItemCollection.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
-              "ViewState": "AgIAAKgGAAAAAAAAAAAswLcGAAAAAAAAAQAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\st310-08\\AppData\\Local\\Temp\\.vsdbgsrc\\bd4204e8fe8c433014b6e844f5f8e83f7021965c67d30b4ae706f784e433988a\\ItemCollection.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-06T07:59:34.162Z",
               "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
@@ -215,9 +335,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Subject.cs",
-              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\Subject.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\Subject.cs",
               "RelativeDocumentMoniker": "Subject.cs",
-              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\Subject.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\Subject.cs",
               "RelativeToolTip": "Subject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -226,11 +346,23 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-06T07:11:32.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
-              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\Student.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\Student.cs",
               "RelativeToolTip": "Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -239,89 +371,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-06T07:14:42.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\MainPage.xaml.cs",
-              "RelativeToolTip": "MainPage.xaml.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAkwBgAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "SubjectPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\SubjectPage.xaml.cs",
+              "RelativeDocumentMoniker": "SubjectPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\SubjectPage.xaml.cs",
+              "RelativeToolTip": "SubjectPage.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwDAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-06T07:12:21.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GradePage.xaml",
-              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\GradePage.xaml",
-              "RelativeDocumentMoniker": "GradePage.xaml",
-              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\GradePage.xaml",
-              "RelativeToolTip": "GradePage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-06T07:12:18.629Z",
+              "WhenOpened": "2026-11-06T08:10:50.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "SubjectPage.xaml",
-              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\SubjectPage.xaml",
-              "RelativeDocumentMoniker": "SubjectPage.xaml",
-              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\SubjectPage.xaml",
-              "RelativeToolTip": "SubjectPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-06T07:11:56.041Z",
+              "Title": "Themes.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\Themes.cs",
+              "RelativeDocumentMoniker": "Themes.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\Themes.cs",
+              "RelativeToolTip": "Themes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T08:16:00.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\MainPage.xaml",
-              "RelativeDocumentMoniker": "MainPage.xaml",
-              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\MainPage.xaml",
-              "RelativeToolTip": "MainPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-06T07:11:32.112Z",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T15:56:38.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-06T07:10:07.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 23,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Romanov_PR31\\TRPO_styles\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\TRPO_styles\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-06T07:10:05.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-06T07:10:05.313Z"
             }
           ]
         }
